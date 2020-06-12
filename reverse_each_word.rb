@@ -6,4 +6,4 @@ def reverse_each_word(sentence)
     rev_word = arr.reverse 
     reverse << rev_word 
   end
-  equals = 
+  equals = reverse.join("")
