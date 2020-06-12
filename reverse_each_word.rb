@@ -3,4 +3,4 @@ def reverse_each_word(sentence)
   reverse = []
   
   split_sentence.each do |arr|
-    
+    rev
