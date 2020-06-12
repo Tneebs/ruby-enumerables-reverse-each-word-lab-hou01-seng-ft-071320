@@ -1,2 +1,2 @@
 def reverse_each_word(string)
-  string.each |x| 
+  string.each do |x| 
